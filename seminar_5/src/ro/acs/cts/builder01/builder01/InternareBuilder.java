@@ -4,7 +4,7 @@ public class InternareBuilder implements AbstractBuilder{
     private Internare internare;
 
     public InternareBuilder(String numePacient) {
-       this.internare=new Internare("George",false,false,false,false);
+       this.internare=new Internare(numePacient,false,false,false,false);
     }
 
     @Override

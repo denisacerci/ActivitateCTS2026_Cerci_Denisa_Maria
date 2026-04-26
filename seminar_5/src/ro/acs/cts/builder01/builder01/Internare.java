@@ -1,6 +1,6 @@
 package ro.acs.cts.builder01.builder01;
 
-public class Internare {
+public class  Internare {
     private String numePacient;
     private boolean patRabatabil;
     private boolean micDejunInclus;

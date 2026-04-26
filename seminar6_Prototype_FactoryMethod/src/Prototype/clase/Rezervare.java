@@ -33,10 +33,10 @@ public class Rezervare implements RezervareAbstracta{
         }
 
 
-        this.numeClient = numeClient;
-        this.ora = ora;
-        this.ziuaRezervarii = ziuaRezervarii;
-        this.nrTelefon = nrTelefon;
+//        this.numeClient = numeClient;
+//        this.ora = ora;
+//        this.ziuaRezervarii = ziuaRezervarii;
+//        this.nrTelefon = nrTelefon;
     }
 
     private Rezervare() {
